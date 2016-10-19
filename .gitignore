@@ -1,3 +1,7 @@
+# PCB Design History
+/PCBDesign/*/History
+/PCBDesign/*/__Previews
+
 # Object files
 *.o
 *.ko
